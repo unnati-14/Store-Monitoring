@@ -46,7 +46,7 @@ The system has the following three sources of data:
     America/Chicago. This is used so that data sources 1 and 2 can be
     compared against each other.
     
-**_NOTE:_**  I've used the same data file which is given in the Notion
+**_NOTE:_**  I've used the same data file which is given in the Notion(I have not pushed it on GitHub due to its large size).
      
          #### Here is data file structure 
          
